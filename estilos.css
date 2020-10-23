@@ -1,0 +1,27 @@
+h2 {
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+.color_rojo {
+    color: red;
+    font-size: large;
+    text-align: justify;
+}
+
+.tabla {
+    padding: 50px;
+}
+
+.tabla_div {
+    padding: 20px;
+    background-color: aqua;
+}
+.elemento_div {
+    background-color: yellow;
+    padding: 10px;
+    text-align: justify;
+}
